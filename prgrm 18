@@ -1,0 +1,4 @@
+<?php
+$sample="This is a sample text";
+echo str_word_count($sample);
+?>
