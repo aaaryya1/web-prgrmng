@@ -1,0 +1,4 @@
+<?php
+$str="Tutorilas Class";
+echo strlen($str);
+?>
